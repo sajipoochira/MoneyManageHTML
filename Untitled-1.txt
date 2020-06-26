@@ -1,0 +1,74 @@
+<div class="card bg-dark text-white">
+  <img src="..." class="card-img" alt="...">
+  <div class="card-img-overlay">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text">Last updated 3 mins ago</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+https://cdn.jsdelivr.net/npm/chart.js@3.0.0-alpha/dist/Chart.min.js
+
+
+
+
+
+
+
+$(document).ready(function() {
+    $.ajax({
+        type: "GET",
+        url: "Monefy.Data.20-05-2020.csv",
+        dataType: "text",
+        success: function(data) {processData(data);}
+     });
+});
+
+function processData(allText) {
+    
+    var record_num = 8;  // or however many elements there are in each row
+    var allTextLines = allText.split(/\r\n|\n/);
+    var entries = allTextLines[0].split(',');
+    var lines = [];
+
+    var headings = entries.splice(0,record_num);
+    while (entries.length>0) {
+        var tarr = [];
+        for (var j=0; j<record_num; j++) {
+            tarr.push(headings[j]+":"+entries.shift());
+        }
+        lines.push(tarr);
+        
+    }
+    console.log(lines);
+}
+
+
+var retry=0
+
+XHR.onreadystatechange = function(){
+    console.log(XHR.status)
+if(XHR.status != 200){
+    retry++
+    console.log("Retry ")
+    console.log(retry)
+    XHR.open("POST", url);
+XHR.setRequestHeader("Content-Type" , "application/json")
+XHR.send(jsonexpence)
+}}
+
+  data: {
+                    labels: monthorder,
+                    datasets: [{
+                        label: 'Income',
+                        backgroundColor: 'rgb(150, 99, 132)',
+                        borderColor: 'rgb(150, 99, 132)',
+                        data: MonIncome
+                    }]
+                },

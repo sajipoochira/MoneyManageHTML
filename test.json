@@ -1,0 +1,162 @@
+[
+    {
+        "catType": "Normal",
+        "catogeryName": "Initial balance Credit  card",
+        "id": 1
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "To 'Credit  card'",
+        "id": 2
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Food",
+        "id": 3
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "To 'Chitti Nazir'",
+        "id": 4
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "House",
+        "id": 5
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Eating out",
+        "id": 6
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "Toiletry",
+        "id": 7
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "School",
+        "id": 8
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Transport",
+        "id": 9
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Work",
+        "id": 10
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Car",
+        "id": 11
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Mobile",
+        "id": 12
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Charity",
+        "id": 13
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Communications",
+        "id": 14
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Gifts",
+        "id": 15
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "To 'Borrowed'",
+        "id": 16
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Health",
+        "id": 17
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Clothes",
+        "id": 18
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Other",
+        "id": 19
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "To 'Chitti Jamshad'",
+        "id": 20
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "To 'Cash'",
+        "id": 21
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Entertainment",
+        "id": 22
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "To 'Bank Account'",
+        "id": 23
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "To 'NRI Account'",
+        "id": 24
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Bills",
+        "id": 25
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "To 'Jamshad'",
+        "id": 26
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "To 'Chitti Ashraf'",
+        "id": 27
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Gold Purchase",
+        "id": 28
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "To 'Borrowed India'",
+        "id": 29
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Sports",
+        "id": 30
+    },
+    {
+        "catType": "Transfer",
+        "catogeryName": "To 'BBQ'",
+        "id": 31
+    },
+    {
+        "catType": "Normal",
+        "catogeryName": "Taxi",
+        "id": 32
+    }
+]

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href = "bootstrap-4.3.1-dist/css/bootstrap.min.css">
+<script src="bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+<script src="bootstrap-4.3.1-dist/js/JQuery.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-primary">
+     
+    <nav class="navbar navbar-expand-lg navbar-light ">
+        <a class="navbar-brand" href="#">Navbar w/ text</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Features</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Pricing</a>
+            </li>
+          </ul>
+          <span class="navbar-text">
+            Navbar text with an inline element
+          </span>
+        </div>
+      </nav>
+        
+        </nav>
+    <div >
+    <div class="row mx-auto">
+     
+        <div class="col-2 col-md-2 ">
+          <aside class="app-aside app-aside-expand-md app-aside-light">
+            <ul class="list-group">
+        
+        <li id="income" class="list-group-item">
+            Income 
+        </li>
+        <li id="expence" class="list-group-item">
+          Expence 
+      </li>
+      </ul>
+        </aside>
+        </div>
+     
+    <div class="col-6 col-md-6">
+    <h1 id="table-heading">Income Table </h1>
+    <table class="table table-striped table-bordered table-sm">
+    <thead class="thead-dark">
+        <tr>
+            <th>Date </th>
+            <th>Description </th>
+            <th>Catogory</th>
+            <th>Account</th>
+            <th>Amount</th>
+        </tr>
+    </thead>
+    <tbody id="IncomeTable">
+      <td>Please Wait............</td> 
+    </tbody>
+</table>
+
+
+</div>
+</div>
+</div>
+</body>
+
+<script>
+
+var  XHR = new XMLHttpRequest();
+
+
+
+document.getElementById("income").addEventListener("click", function(){
+  XHR.open("GET", "http://localhost:8080/MoneyManage/api/income");
+    XHR.send();
+    document.getElementById("table-heading").innerHTML="Income Table";
+
+});
+
+document.getElementById("expence").addEventListener("click", function(){
+  XHR.open("GET", "http://localhost:8080/MoneyManage/api/expence");
+    XHR.send();
+
+    document.getElementById("table-heading").innerHTML="Expence Table";
+
+});
+XHR.onreadystatechange = function(){
+    
+if(XHR.status == 200)
+{
+var Response = JSON.parse(XHR.responseText);
+
+var htmlElement = "";
+
+Response.forEach(element =>{ 
+
+        
+    htmlElement = htmlElement + `<tr><td>${element.date}</td><td>${element.income_Description}</td><td>${element.income_Catogory}</td><td>${element.account}</td><td>${element.income_Amount}</td></tr>`
+
+
+} ) 
+
+
+
+ document.getElementById("IncomeTable").innerHTML = htmlElement ;
+
+}
+
+}
+
+
+</script>
+</html>

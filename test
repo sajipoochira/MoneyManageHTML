@@ -1,0 +1,19 @@
+function expence(){
+   document.getElementById("Dashboard").style.display = "none";
+   document.getElementById("expenceEntry").style.display = "none";
+    document.getElementById("expenceEntry").style.display = "block";
+
+function getexpenceData(){
+
+    var Amount = document.getElementById("inputExpAmount").value
+    var Description = document.getElementById("inputExpDescription").value
+    var Account = document.getElementById("inputAccount").value
+    var Category = document.getElementById("inputExpCategory").value
+
+    console.log(Amount)
+
+}
+
+}
+
+

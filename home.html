@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Money Manage</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.0.0-alpha/dist/Chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.21/r-2.2.5/datatables.min.css"/>
+ 
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.21/r-2.2.5/datatables.min.js"></script>
+
+
+
+</head>
+
+<body>
+    <header>
+        <div class="row bg-primary">
+
+            <div class="col-md-12 col-xs-12 col-sm-12 text-sm-right">
+
+                <nav class="navbar navbar-expand-lg bg-primary navbar-dark ">
+                    <div class=" text-white pl-4 p-1">
+                        <h2>Money Manage</h2>
+                    </div>
+
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto text-white">
+                            <li class="nav-item active" id="dashboardclick">
+                                <a class="nav-link" onclick="dashboard()">Dashboard <span
+                                        class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item active" id="incomeclick">
+                                <a class="nav-link" onclick="income()">Income <span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item active" id="expenceclick">
+                                <a class="nav-link" onclick="expence()">Expence <span
+                                        class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item dropdown active">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Accounts
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="dropdownAccounts">
+                                    <a class="dropdown-item" href="#">Action</a>
+                                    <a class="dropdown-item" href="#">Another action</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="#">Something else here</a>
+                                </div>
+                            </li>
+                            <li class="nav-item dropdown active "  id="reportsclick">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Reports
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="dropdownAccounts">
+                                    <a class="dropdown-item" onclick="incomereports()">Income</a>
+                                    <a class="dropdown-item" onclick="expencereports()">Expence</a>
+                                                                        
+                                </div>
+                            </li>
+                           
+
+                        </ul>
+                        <form class="form-inline my-2 my-lg-0">
+                            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                        </form>
+                    </div>
+                </nav>
+
+            </div>
+
+        </div>
+    </header>
+    <div id="Dashboard">
+        <div class="row pl-3 bg-dark">
+            <div class="card p-2 m-2 " style="width: 38.5rem;">
+                <div class="card-body">
+                    <canvas id="mypieChart" width="400" height="300">
+                        <button>te</button>
+                    </canvas>
+                </div>
+            </div>
+            <div class="card p-2 m-2" style="width: 38.5rem;">
+                <div class="card-body">
+                    <canvas id="myChart" width="400" height="300"></canvas>
+                </div>
+            </div>
+
+            <div class="card p-2 m-2 " style="width: 38.5rem;">
+                <div class="card-body">
+                    <canvas id="lastmonthctx" width="400" height="300"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row pl-3 bg-info">
+            <div class="card p-1 m-2 " style="width: 117.5rem;">
+                <div class="card-body">
+                    <canvas class="m-0 " id="lyChart" width="700" height="400"></canvas>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div id="IncomeEntry">
+        <div class="row">
+            <div class="container p-4 justify-content-center">
+
+                <form id="Incomeform">
+
+                    <div class="form-row">
+                        <h2 class="text-center col-md-6">Income</h2>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputIncDate">Date</label>
+                            <input type="date" class="form-control" id="inputIncDate" name="date" placeholder="">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputIncAmount">Amount</label>
+                            <input type="number" class="form-control" id="inputIncAmount" placeholder="Amount"
+                                name="income_Amount">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputIncDescription" class="text-bold">Description</label>
+                            <input type="text" class="form-control" id="inputIncDescription" placeholder="Description"
+                                name="income_Description">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputIncCategory">Category</label>
+                            <select id="inputIncCategory" class="form-control" name="income_Catogory">
+                                <option selected>Choose...</option>
+                                <option>...</option>
+                            </select>
+                            <a class="text-primary" href="" id="AddCategory">Add Catagory</a>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputAccount">Account</label>
+                            <select id="inputAccount" class="form-control" name="account">
+                                <option selected>Choose...</option>
+                                <option>...</option>
+                            </select>
+                            <a class="text-primary" href="" id="AddAccount">Add Account</a>
+                        </div>
+
+                    </div>
+
+                    <button type="submit" class="btn btn-primary col-md-6">Add</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div id="expenceEntry">
+        <div class="row">
+            <div class="container p-4 justify-content-center">
+
+                <form id="expenceform">
+
+                    <div class="form-row">
+                        <h2 class="text-center col-md-6">Expence</h2>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputexpDate">Date</label>
+                            <input type="date" class="form-control" id="inputIncDate" placeholder="Date" name="date">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputExpAmount">Amount</label>
+                            <input type="float" class="form-control" id="inputExpAmount" name="expence_Amount"
+                                placeholder="Amount" step="0.01">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputExpDescription" class="text-bold">Description</label>
+                            <input type="text" class="form-control" id="inputExpDescription" name="expence_Description"
+                                placeholder="Description">
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputExpCategory">Category</label>
+                            <select id="inputExpCategory" class="form-control" name="expence_Catogory">
+                                <option selected>Choose...</option>
+                                <option>...</option>
+                            </select>
+                            <a class="text-primary" href="" id="AddCategory">Add Catagory</a>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label for="inputAccount">Account</label>
+                            <select id="inputAccountexp" class="form-control" name="account">
+                                <option selected>Choose...</option>
+                                <option>...</option>
+                            </select>
+                            <a class="text-primary" href="" id="AddAccount">Add Account</a>
+                        </div>
+
+                    </div>
+                    <button type="submit" class="btn btn-primary col-md-6">Add</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div id="Reportstable">
+        <div class="row">
+            <div class="container col-md-12 col-xs-12 mb-3 mt-3">
+                <table class="table table-stripped table-boarderd" style="width: 100%;" id="ReportTable">
+                    <thead>
+                        <th>Date</th>
+                        <th>Account</th>
+                        <th>Category</th>
+                        <th>Month</th>
+                        <th>Description</th>
+                        <th>Amount</th>
+                        
+                    </thead>
+                    <tbody id="tabledata">
+                        
+
+                    </tbody>
+                    <tfoot>
+
+                    </tfoot>
+
+                </table>
+
+
+            </div>
+
+        </div>
+    </div>
+
+    <script src="home.js"> </script>
+
+
+</body>
+
+</html>

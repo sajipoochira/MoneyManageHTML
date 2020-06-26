@@ -1,0 +1,836 @@
+ID,Date,ExpenceCatogery,ExpenceDescription,Amount,Account
+1,2018-09-01,Initial balance Credit  card,,5158,Credit  card
+2,2018-09-01,To 'Credit  card',Credit card Payment ,5158,Bank Account
+3,2018-09-01,Food,Milk,7.5,Cash
+4,2018-09-01,Food,Safari ,242.35,Credit  card
+5,2018-09-04,To 'Chitti Nazir',ATM Withdrawal by Nazeer,1600,Bank Account
+6,2018-09-04,To 'Chitti Nazir',,400,Borrowed
+7,2018-09-06,Food,Water,7.5,Cash
+8,2018-09-06,House,Super Glue,2.5,Cash
+9,2018-09-07,Food,,200.45,Credit  card
+10,2018-09-07,Eating out,,33,Cash
+11,2018-09-07,Toiletry,,189,Credit  card
+12,2018-09-07,School,Eracer,3,Credit  card
+13,2018-09-07,Transport,Ticket Booked for Father and Mother ,916,Credit  card
+14,2018-09-07,Work,Laptop Bag,279,Credit  card
+15,2018-09-07,School,School items ,21,Credit  card
+16,2018-09-07,Car,Puncture ,15,Cash
+17,2018-09-07,Eating out,Popcorn ,3,Cash
+18,2018-09-07,Mobile,App purchase ,8,Credit  card
+19,2018-09-08,Charity,Nal kumar,50,Cash
+20,2018-09-08,Communications,Internet Bill Pay,500,Credit  card
+21,2018-09-08,Food,Milk,7.5,Cash
+22,2018-09-08,Food,Snakes ,2.5,Cash
+23,2018-09-10,Food,Milk,7.5,Cash
+24,2018-09-12,Food,Water,8,Cash
+25,2018-09-12,Food,Grocery Grand,126.75,Credit  card
+26,2018-09-14,Food,Gas Cylinder ,20,Cash
+27,2018-09-14,Gifts,Clothe for Firoz's Son,65,Credit  card
+28,2018-09-14,House,Kettle 79,79,Credit  card
+29,2018-09-14,School,Tiffen Box,15,Credit  card
+30,2018-09-14,Mobile,Mobile Holder,19,Credit  card
+31,2018-09-14,Food,Chocolate ,3.25,Credit  card
+32,2018-09-14,Food,Grocery Grand,98.3,Credit  card
+33,2018-09-15,To 'Borrowed',Sameer Borrowed ,10,Cash
+34,2018-09-16,Health,Sidra Consultation Fee,30,Credit  card
+35,2018-09-16,Eating out,Food MRA,49,Credit  card
+36,2018-09-16,Gifts,Tip,2,Cash
+37,2018-09-16,Food,Milk and vegetables ,19.7,Credit  card
+38,2018-09-20,Health,Medicine Sidra,18.5,Credit  card
+39,2018-09-20,Food,Water,8,Cash
+40,2018-09-20,Charity,Tip,2,Cash
+41,2018-09-21,House,Kitchen Appliances ,50,Cash
+42,2018-09-21,Food,Grocery Ezdan,13.5,Cash
+43,2018-09-22,House,Tools,33,Credit  card
+44,2018-09-22,Food,Grocery Lulu,234.7,Credit  card
+45,2018-09-22,Transport,Ticket Booked for Father and Mother return,1430,Credit  card
+46,2018-09-22,Toiletry,Hair cut ,30,Cash
+47,2018-09-25,Charity,Donation CMDRF - Noble,100,Cash
+48,2018-09-25,Food,Milk and Snaks,9.5,Cash
+49,2018-09-25,Charity,Tips Car Wash,10,Cash
+50,2018-09-25,Food,Grocery Grand,47.25,Credit  card
+51,2018-09-27,Food,Water,8,Cash
+52,2018-09-27,Charity,Tip,1,Cash
+53,2018-09-27,Food,Milk ,7.5,Cash
+54,2018-09-27,To 'Credit  card',Credit card Payment ,3000,Bank Account
+55,2018-09-28,Clothes,Clothes,129.5,Credit  card
+56,2018-09-28,Food,Grocery Safari,329.2,Credit  card
+57,2018-09-29,Eating out,Ice cream City centre ,26,Credit  card
+58,2018-09-29,Food,Water,8,Cash
+59,2018-09-30,Other,Other and Correction ,9.5,Cash
+60,2018-10-01,To 'Chitti Nazir',,2000,Bank Account
+61,2018-10-01,Food,Milk ,15,Cash
+62,2018-10-02,Food,Fruits,12,Cash
+63,2018-10-02,Food,Vegetables,7,Cash
+64,2018-10-02,To 'Chitti Jamshad',,500,Bank Account
+65,2018-10-03,School,School Fees ,1550,Credit  card
+66,2018-10-03,Charity,To Liju,500,Bank Account
+67,2018-10-04,Eating out,KFC,57,Credit  card
+68,2018-10-04,Food,Water,8,Cash
+69,2018-10-06,Mobile,Mobile recharge ,10,Credit  card
+70,2018-10-06,House,Pillow and shoes,65,Credit  card
+71,2018-10-06,Food,Grocery Lulu,367.7,Credit  card
+72,2018-10-07,Health,Hospital Consultation Fee,30,Credit  card
+73,2018-10-07,Health,Medicine Focus,36,Credit  card
+74,2018-10-07,Food,Water,8,Cash
+75,2018-10-08,Food,Tea Powder,19,Cash
+76,2018-10-08,To 'Cash',,100,Bank Account
+77,2018-10-09,School,Taxi,500,Bank Account
+78,2018-10-10,Food,Water,8,Cash
+79,2018-10-11,Food,Grocery Safari,219,Credit  card
+80,2018-10-12,Charity,Tip ,2,Cash
+81,2018-10-12,Eating out,Tea and Snacks,6,Cash
+82,2018-10-13,Food,Gas Cylinder ,20,Cash
+83,2018-10-13,Health,Hospital Fee,100,Credit  card
+84,2018-10-14,Food,Water,8,Cash
+85,2018-10-17,Food,Water,8,Cash
+86,2018-10-17,House,Amazon Prime ,3.65,Credit  card
+87,2018-10-18,Food,Grocery Grand,147.15,Credit  card
+88,2018-10-18,Food,Milk ,8,Cash
+89,2018-10-20,Eating out,Tea Safari,8,Cash
+90,2018-10-20,Food,Water,7,Cash
+91,2018-10-20,Food,Juice,6,Cash
+92,2018-10-20,Eating out,Ice cream  McDonald's ,5,Cash
+93,2018-10-20,Food,Grocery Safari,221.5,Credit  card
+94,2018-10-20,Other,Cricket Balls,17,Credit  card
+95,2018-10-23,Food,Water,8,Cash
+96,2018-10-24,Food,Grocery Grand,49.5,Credit  card
+97,2018-10-24,Food,Juice ,1.5,Cash
+98,2018-10-25,Eating out,Food Rotana,69,Credit  card
+99,2018-10-25,Charity,Tip Rotana,5,Cash
+100,2018-10-25,To 'Credit  card',,150,Bank Account
+101,2018-10-26,To 'Credit  card',,100,Bank Account
+102,2018-10-26,Food,Orange ,8,Cash
+103,2018-10-26,Food,Grocery,4,Cash
+104,2018-10-26,Eating out,Tea,10,Cash
+105,2018-10-26,Other,Purchase Home town,41,Credit  card
+106,2018-10-26,Food,Grocery Safari,118.45,Credit  card
+107,2018-10-27,Food,Fish ,58,Cash
+108,2018-10-30,To 'Credit  card',,4300,Bank Account
+109,2018-10-30,Food,Grocery Grand,143.2,Credit  card
+110,2018-10-30,House,Home item's ,61.5,Credit  card
+111,2018-10-31,Health,Medicine Sidra,21.24,Credit  card
+112,2018-11-01,Communications,Internet Bill Pay,500,Credit  card
+113,2018-11-01,Eating out,Safari Food  Court ,57,Cash
+114,2018-11-01,To 'Cash',,700,Bank Account
+115,2018-11-01,House,Safari Clothes ,126,Credit  card
+116,2018-11-01,Food,Grocery Safari,227.2,Credit  card
+117,2018-11-01,House,,10,Cash
+118,2018-11-02,Entertainment,Parking,4,Cash
+119,2018-11-04,Eating out,Snacks,10,Cash
+120,2018-11-04,Entertainment,Entry Ticket ,20,Cash
+121,2018-11-04,Eating out,Ice cream ,19,Cash
+122,2018-11-04,Food,Tomato ,2.5,Cash
+123,2018-11-04,School,Tie ,15,Cash
+124,2018-11-04,Other,Repayment to Jamsheed ,310,Bank Account
+125,2018-11-05,Clothes,Clothes Ansar galary,332.75,Credit  card
+126,2018-11-05,House,Home item's ,93.75,Credit  card
+127,2018-11-05,Food,Grocery Ansar Galary,109.7,Credit  card
+128,2018-11-05,Gifts,Purchase Home town,147.25,Credit  card
+129,2018-11-06,Car,Car Wash ,15,Cash
+130,2018-11-07,Mobile,Mobile recharge ,10,Credit  card
+131,2018-11-08,Food,Grocery Grand,157.75,Credit  card
+132,2018-11-08,Food,Grocery Grand,6.25,Credit  card
+133,2018-11-08,House,Tap,10,Cash
+134,2018-11-09,Eating out,Nobile Cafeteria,18,Cash
+135,2018-11-09,Food,Gas Cylinder ,20,Cash
+136,2018-11-10,Eating out,Popcorn ,3,Cash
+137,2018-11-10,Eating out,Snacks,10,Cash
+138,2018-11-10,Gifts,Purchase Home town,156,Credit  card
+139,2018-11-10,House,Home item's ,22,Credit  card
+140,2018-11-11,School,School items ,24,Credit  card
+141,2018-11-11,To 'Cash',,600,Bank Account
+142,2018-11-11,Food,Grocery Lulu,234.95,Credit  card
+143,2018-11-11,To 'Chitti Jamshad',,500,Cash
+144,2018-11-12,School,Taxi,500,Cash
+145,2018-11-12,Mobile,True Caller Purchase ,23.2,Credit  card
+146,2018-11-14,Eating out,Omlaite and juice ,27,Cash
+147,2018-11-14,Food,Milk and Snaks,10,Cash
+148,2018-11-15,Food,Milk,14,Cash
+149,2018-11-16,Eating out,Food MRA,92,Credit  card
+150,2018-11-16,Charity,Tip MRA,5,Cash
+151,2018-11-16,Food,Milk at Baladana,13,Cash
+152,2018-11-16,Car,Parking Al bida park,2,Cash
+153,2018-11-16,House,Mic ,55,Credit  card
+154,2018-11-16,Food,Grocery Grand,35.25,Credit  card
+155,2018-11-16,Food,Nestle. Milk powder Baby,36,Credit  card
+156,2018-11-17,Eating out,Snacks ,14,Cash
+157,2018-11-17,Food,Grocery Safari,268.48,Credit  card
+158,2018-11-17,Gifts,Purchase Home town,112,Credit  card
+159,2018-11-17,Toiletry,Hair cut ,30,Cash
+160,2018-11-20,Food,Coffee powder and Milk ,17.5,Cash
+161,2018-11-21,Charity,Charity ,10,Cash
+162,2018-11-22,Gifts,Purchase Home town,163.25,Credit  card
+163,2018-11-22,Eating out,Dinner  Ansar Galary,64,Credit  card
+164,2018-11-22,Eating out,Dinner  Ansar Galary,10,Cash
+165,2018-11-22,Gifts,Purchase Home town ,55,Credit  card
+166,2018-11-22,Food,Grocery Ansar Galary,37.75,Credit  card
+167,2018-11-22,Entertainment,Massage ,2,Cash
+168,2018-11-23,Entertainment,Mic and Speakers 299,299,Credit  card
+169,2018-11-23,Clothes,Clothes,5,Credit  card
+170,2018-11-23,Gifts,Purchase Home town ,49,Credit  card
+171,2018-11-23,To 'Cash',,200,Bank Account
+172,2018-11-23,Eating out,Snacks ,16,Cash
+173,2018-11-23,Gifts,Purchase Home town ,100.5,Credit  card
+174,2018-11-23,Gifts,Gold purchase Alukkas ,500,Credit  card
+175,2018-11-23,Gifts,Gold purchase Alukkas ,1885,Bank Account
+176,2018-11-23,House,Toy,17,Credit  card
+177,2018-11-23,Clothes,Pardha,160,Cash
+178,2018-11-23,To 'Bank Account',,13000,Chitti Nazir
+179,2018-11-24,Food,Fish from market,33.5,Cash
+180,2018-11-24,Car,Airport Parking,12,Credit  card
+181,2018-11-24,Gifts,Purchase Home town Grand,23,Credit  card
+182,2018-11-24,Charity,Charity  Donation,10,Cash
+183,2018-11-24,To 'Credit  card',,3050,Bank Account
+184,2018-11-24,Food,Grocery Lulu,167.25,Credit  card
+185,2018-11-26,Health,Sidra Consultation Fee,50,Credit  card
+186,2018-11-29,Work,Domain Purchase ,5,Credit  card
+187,2018-11-29,Mobile,Mobile recharge ,10,Credit  card
+188,2018-11-30,Food,Grocery Grand,58.1,Credit  card
+189,2018-11-30,Food,Grocery Ezdan ,6,Cash
+190,2018-12-02,To 'Cash',,14500,Bank Account
+191,2018-12-02,To 'NRI Account',,10525,Cash
+192,2018-12-02,Bills,Commission Money Exchange ,15,Cash
+193,2018-12-02,Food,Grocery Lulu,204.15,Credit  card
+194,2018-12-02,House,Microwave woven ,669,Credit  card
+195,2018-12-02,House,Plate for oven,25,Credit  card
+196,2018-12-03,To 'Chitti Jamshad',,500,Cash
+197,2018-12-04,Eating out,Snacks Star Burger ,14,Cash
+198,2018-12-04,Health,Sidra Consultation Fee,30,Cash
+199,2018-12-04,Health,Medicine Sidra,43,Credit  card
+200,2018-12-04,To 'Chitti Nazir',,2000,Cash
+201,2018-12-06,Eating out,Snacks Sidra,1,Cash
+202,2018-12-06,Health,Sidra Consultation Fee,30,Credit  card
+203,2018-12-06,Eating out,Food MRA,54,Credit  card
+204,2018-12-06,Gifts,Tip MRA,5,Cash
+205,2018-12-06,Food,Grocery Grand,66.75,Credit  card
+206,2018-12-08,Food,Fish from market,35,Cash
+207,2018-12-09,Food,Milk and Snaks,10,Cash
+208,2018-12-09,School,Taxi,500,Cash
+209,2018-12-11,Food,Grocery Safari,436.15,Credit  card
+210,2018-12-11,Eating out,Safari Food  Court ,25,Cash
+211,2018-12-14,Food,Gas Cylinder ,20,Cash
+212,2018-12-18,Eating out,Juice and Snacks Grand,10,Credit  card
+213,2018-12-20,Food,Grocery Safari,177.85,Credit  card
+214,2018-12-20,Food,Grocery Safari,25.25,Credit  card
+215,2018-12-20,To 'Jamshad',Lending ,23500,NRI Account
+216,2018-12-20,Charity,Charity  Donation,2000,NRI Account
+217,2018-12-20,Bills,Repayment to Uppa,2250,NRI Account
+218,2018-12-20,Charity,Zakath for 2018,26000,NRI Account
+219,2018-12-21,Eating out,Safari Food  Court ,32,Cash
+220,2018-12-21,Food,Grocery Ezdan,17.5,Cash
+221,2018-12-24,Mobile,Mobile recharge ,10,Credit  card
+222,2018-12-24,School,Photo Copy,2,Cash
+223,2018-12-25,Other,Aqeeqa,8500,NRI Account
+224,2018-12-26,Other,Sudheerka Donation ,3000,NRI Account
+225,2018-12-26,Food,Grocery Lulu,164,Credit  card
+226,2018-12-26,Eating out,KFC,42,Credit  card
+227,2018-12-26,Other,Photo Dubai Studio ,25,Cash
+228,2018-12-27,Other,Photo Copy Embassy ,8,Cash
+229,2018-12-29,Car,Car Wash ,15,Cash
+230,2018-12-30,Charity,Yahiya Donation,2000,NRI Account
+231,2018-12-30,To 'Credit  card',,3753,Bank Account
+232,2018-12-31,Other,Passport Form fill,20,Cash
+233,2018-12-31,Other,Photo Copy Embassy ,14,Cash
+234,2018-12-31,Other,Certificate attestation Embassy ,46,Cash
+235,2019-01-01,Communications,Ooreedoo Bill,500,Credit  card
+236,2019-01-01,Other,Passport Renewal,192,Cash
+237,2019-01-01,Food,Grocery Grand,72,Credit  card
+238,2019-01-03,Food,Grocery Safari,107.5,Credit  card
+239,2019-01-03,To 'Cash',,2500,Bank Account
+240,2019-01-03,To 'Chitti Nazir',Nazi,1500,Cash
+241,2019-01-03,To 'Chitti Ashraf',,1000,Cash
+242,2019-01-03,Eating out,Shawarma,12,Cash
+243,2019-01-03,Eating out,Safari Food  Court ,21,Cash
+244,2019-01-04,To 'Chitti Jamshad',,500,Cash
+245,2019-01-05,School,School Fees ,1550,Credit  card
+246,2019-01-05,Clothes,Shoes and Chappell ,82,Credit  card
+247,2019-01-05,Food,Grocery Safari,91.65,Credit  card
+248,2019-01-05,Food,Grocery Safari,12.3,Credit  card
+249,2019-01-05,Gold Purchase,Gold purchase Alukkas Diya,495,Credit  card
+250,2019-01-09,Food,Grocery Lulu,151.7,Credit  card
+251,2019-01-09,House,Matt ,15,Credit  card
+252,2019-01-09,To 'Cash',ATM Withdrawal,50,Bank Account
+253,2019-01-10,To 'Cash',,250,Borrowed
+254,2019-01-10,School,Taxi(275 is actual),300,Cash
+255,2019-01-15,Food,Milk and vegetables Ezdan,9,Cash
+256,2019-01-16,Clothes,Safari Clothes ,50,Credit  card
+257,2019-01-16,Food,Grocery Safari,225.05,Credit  card
+258,2019-01-16,Food,Grocery Safari,12.5,Credit  card
+259,2019-01-18,Work,Android Course Udemy,41,Credit  card
+260,2019-01-19,Clothes,Clothes Lulu,187,Credit  card
+261,2019-01-19,Eating out,Snacks Lulu,9.5,Credit  card
+262,2019-01-19,Food,Fish from market,24,Borrowed
+263,2019-01-20,Food,Milk ,13,Credit  card
+264,2019-01-25,Food,Milk and Snaks,16.75,Credit  card
+265,2019-01-26,House,599+22+10+25,656,Credit  card
+266,2019-01-26,Clothes,Safari Clothes ,23,Credit  card
+267,2019-01-26,Food,Grocery Safari 207.40+26,233.4,Credit  card
+268,2019-01-26,Health,Medicine Safari,11.3,Credit  card
+269,2019-01-26,Eating out,Safari Food  Court ,37,Cash
+270,2019-01-26,House,Hair cut ,30,Cash
+271,2019-01-27,Health,Medicine Hamad,5,Cash
+272,2019-01-27,To 'Bank Account',Correction,13.5,Cash
+273,2019-01-29,Food,Gas Cylinder ,20,Cash
+274,2019-01-30,Gifts,Sanooka,5,Cash
+275,2019-01-30,To 'Credit  card',,3800,Bank Account
+276,2019-01-31,Health,Medicine PHCC,11,Credit  card
+277,2019-01-31,Health,Health Card Renewal,100,Credit  card
+278,2019-01-31,House,Battery Smart Watch ,15,Cash
+279,2019-01-31,Eating out,Grand Food,12,Credit  card
+280,2019-01-31,To 'Cash',Borrowed Credit Card,30,Credit  card
+281,2019-02-01,Food,Milk ,8,Cash
+282,2019-02-02,Mobile,Mobile recharge ,10,Credit  card
+283,2019-02-02,Food,Grocery Grand,39,Credit  card
+284,2019-02-02,Food,Grocery Lulu,249.65,Credit  card
+285,2019-02-02,Food,Grocery Lulu,54.55,Credit  card
+286,2019-02-02,To 'Cash',,1700,Bank Account
+287,2019-02-06,Food,Milk Grand,13,Credit  card
+288,2019-02-07,Eating out,Food Biathal meshaf,27,Cash
+289,2019-02-07,To 'Chitti Jamshad',,500,Cash
+290,2019-02-08,Communications,Internet Bill Pay,500,Credit  card
+291,2019-02-09,House,Vacuum cleaner Safari ,149,Credit  card
+292,2019-02-09,House,Misc,64.75,Credit  card
+293,2019-02-09,Clothes,Safari Clothes ,60,Credit  card
+294,2019-02-09,Food,Grocery Safari ,166.25,Credit  card
+295,2019-02-09,To 'Chitti Nazir',,2500,Bank Account
+296,2019-02-09,To 'Cash',,12500,Chitti Nazir
+297,2019-02-11,Food,Milk and Snaks,10,Cash
+298,2019-02-11,To 'Bank Account',,2500,Chitti Nazir
+299,2019-02-11,School,Taxi,475,Cash
+300,2019-02-11,To 'Chitti Ashraf',,1000,Cash
+301,2019-02-11,Other,Credit Yearly Charges ,200,Credit  card
+302,2019-02-13,Health,Catheter Sidra,100,Credit  card
+303,2019-02-13,Food,Milk,13,Credit  card
+304,2019-02-15,Food,Grocery Ezdan ,9,Cash
+305,2019-02-15,Other,As per statement ,50,Credit  card
+306,2019-02-16,Food,Grocery Lulu,262.7,Credit  card
+307,2019-02-16,Eating out,KFC,32,Cash
+308,2019-02-16,Car,Car Wash ,15,Cash
+309,2019-02-16,Eating out,Snaks Star Burger ,8,Cash
+310,2019-02-18,Other,Return to Sameer,250,Borrowed
+311,2019-02-18,School,Class Photo,30,Cash
+312,2019-02-19,Eating out,BBQ Kottaram,15,Cash
+313,2019-02-19,Health,Medicine Sidra,11.11,Credit  card
+314,2019-02-19,To 'Borrowed',Sameer Borrowed Return ,250,Cash
+315,2019-02-20,School,Graduations Day Fee,150,Cash
+316,2019-02-21,Clothes,Clothes Lulu,247,Credit  card
+317,2019-02-23,Food,Yogurt Grocery ,3,Cash
+318,2019-02-24,Health,Health Card Renewal,200,Cash
+319,2019-02-24,Car,Petrol ,20,Cash
+320,2019-02-25,Food,Milk Grocery ,8,Cash
+321,2019-02-26,Food,Grocery  Grand,156.8,Credit  card
+322,2019-02-26,Mobile,Surface Case,60,Credit  card
+323,2019-02-27,To 'Credit  card',Credit card Payment ,3230,Bank Account
+324,2019-02-28,Health,Medicine Hamad,5,Cash
+325,2019-03-01,Entertainment,Camera Purchase ,2699,Credit  card
+326,2019-03-01,Food,Grocery Lulu,251.95,Credit  card
+327,2019-03-04,Health,Medicine Hamad,5,Cash
+328,2019-03-06,Mobile,Mobile recharge ,10,Credit  card
+329,2019-03-06,To 'Chitti Jamshad',,500,Cash
+330,2019-03-07,Eating out,Shawarma,30,Cash
+331,2019-03-07,Food,Grocery Grand,76,Credit  card
+332,2019-03-07,House,ID Card Passport details change ,100,Credit  card
+333,2019-03-07,To 'Chitti Ashraf',,1000,Cash
+334,2019-03-08,Eating out,Grocery Ezdan Disposable plates,14,Cash
+335,2019-03-09,Eating out,KFC,63,Credit  card
+336,2019-03-09,Food,Grocery Carrefour ,60,Credit  card
+337,2019-03-10,School,Taxi,500,Cash
+338,2019-03-10,To 'Chitti Nazir',Chitti200,2000,Cash
+339,2019-03-11,Gifts,Gift,10,Credit  card
+340,2019-03-11,Food,Grocery Grand ,127.75,Credit  card
+341,2019-03-12,Food,Grocery Ezdan shabana,20,Cash
+342,2019-03-13,Food,Gas Cylinder ,20,Cash
+343,2019-03-14,Clothes,Safari Clothes ,55,Cash
+344,2019-03-14,Clothes,Safari Clothes ,45,Credit  card
+345,2019-03-14,Food,Grocery Safari ,226.35,Credit  card
+346,2019-03-14,Eating out,Food Rotana,64,Credit  card
+347,2019-03-15,Food,Grocery Ezdan Coriander and Pothena,5,Cash
+348,2019-03-15,Food,Grocery Ezdan ,5,Cash
+349,2019-03-16,Car,Parking City centre ,6,Cash
+350,2019-03-16,Eating out,Ice cream  McDonald's ,6,Cash
+351,2019-03-16,Eating out,Omlaite ,15,Cash
+352,2019-03-16,Entertainment,Alkhor park entry ,20,Cash
+353,2019-03-19,House,Return To Jojo,170,Cash
+354,2019-03-19,Food,Grocery  Grand,150.75,Credit  card
+355,2019-03-20,Food,Grocery Ezdan Milk Binu,10,Cash
+356,2019-03-20,School,Taxi Fare,230,Cash
+357,2019-03-21,Clothes,Fancy items Diya Lulu ,20,Cash
+358,2019-03-21,Eating out,Tea and Snacks Souq,11,Cash
+359,2019-03-21,Car,Car Wash ,15,Cash
+360,2019-03-21,Eating out,KFC,61,Credit  card
+361,2019-03-21,Food,Grocery lulu ,73.55,Credit  card
+362,2019-03-21,To 'Credit  card',Credit card Payment ,4210,Bank Account
+363,2019-03-22,Food,Grocery Ezdan Coriander and Pothena,5,Cash
+364,2019-03-24,School,School Fees +Transport ,3650,Credit  card
+365,2019-03-24,Food,Grocery Safari,139.5,Credit  card
+366,2019-03-26,Car,Licence Renewal ,250,Credit  card
+367,2019-03-27,Health,Medicine Hamad,10,Cash
+368,2019-03-29,Gifts,Things to hometown 103.75+34,137.75,Credit  card
+369,2019-03-29,Eating out,Baithal meshawi parcel,34,Cash
+370,2019-03-29,Car,Parking Airport ,6,Cash
+371,2019-03-29,House,Toys and Misc,154.25,Credit  card
+372,2019-03-29,Gifts,Toy Car Ayan,95,Credit  card
+373,2019-03-30,Food,Grocery Grand ,59.85,Credit  card
+374,2019-04-01,School,Uniform 2 shirt and 2 Pants ,170,Cash
+375,2019-04-01,Health,Sidra Ultra Sound ,50,Credit  card
+376,2019-04-01,Eating out,Food MRA,59,Credit  card
+377,2019-04-01,House,Watch Max,30,Credit  card
+378,2019-04-01,School,Lulu bag and school things ,99.5,Credit  card
+379,2019-04-01,Food,Grocery lulu ,334.95,Credit  card
+380,2019-04-01,Health,Tape Pharmacy ,16,Credit  card
+381,2019-04-01,To 'Chitti Jamshad',,500,Cash
+382,2019-04-01,To 'Credit  card',,2000,Bank Account
+383,2019-04-02,Entertainment,Tripod ,118.12,Credit  card
+384,2019-04-03,Communications,Ooreedoo Bill,697,Credit  card
+385,2019-04-04,Food,Grocery Grand ,16,Credit  card
+386,2019-04-05,House,Hair cut ,30,Cash
+387,2019-04-05,To 'Chitti Nazir',April ,2000,Cash
+388,2019-04-05,To 'Chitti Ashraf',April ,1000,Cash
+389,2019-04-07,Food,Grocery Grand ,40.5,Credit  card
+390,2019-04-09,Health,Sidra Consultation Fee,30,Credit  card
+391,2019-04-09,Eating out,Zaitoon restaurant ,64,Credit  card
+392,2019-04-12,Food,Grocery Ezdan,3.5,Cash
+393,2019-04-12,Gold Purchase,Gold Purchase Akshaya,128,Cash
+394,2019-04-12,Gold Purchase,Gold Purchase Akshaya,1100,Bank Account
+395,2019-04-12,Food,Grocery lulu ,326.25,Credit  card
+396,2019-04-13,School,Blazers ,160,Cash
+397,2019-04-13,Eating out,Safari Food  Court ,17,Cash
+398,2019-04-13,Food,Grocery Safari ,92.15,Credit  card
+399,2019-04-13,Health,Wellcare Pharmacy Safari ,11.3,Credit  card
+400,2019-04-17,School,Tour fee,50,Cash
+401,2019-04-19,Food,Grocery Ezdan ,6.5,Cash
+402,2019-04-20,School,Madrasa Fee,150,Cash
+403,2019-04-20,Food,Grocery Grand ,20,Credit  card
+404,2019-04-21,Eating out,Food court Safari ,7,Cash
+405,2019-04-21,Gifts,Tip Rotana,3,Cash
+406,2019-04-21,To 'Credit  card',Credit card Payment ,4759.74,Bank Account
+407,2019-04-21,Health,Sidra Consultation Fee,30,Credit  card
+408,2019-04-21,Health,Medicine Sidra,63.52,Credit  card
+409,2019-04-21,Car,Accident fine ,100,Credit  card
+410,2019-04-21,Eating out,Food Rotana,39,Credit  card
+411,2019-04-21,Gifts,Tip Rotana,3,Cash
+412,2019-04-21,House,Sugar Checker,109,Credit  card
+413,2019-04-21,Food,Grocery Safari ,120.65,Credit  card
+414,2019-04-25,Food,Grocery Grand ,91.15,Credit  card
+415,2019-04-27,Food,Grocery Safari 106.10+8.50,114.6,Credit  card
+416,2019-04-27,Eating out,Food court Safari ,14,Cash
+417,2019-04-27,Food,Grocery Ezdan,5,Cash
+418,2019-04-27,Food,Fish from market,42,Cash
+419,2019-04-27,To 'Borrowed',To jameer,24,Cash
+420,2019-04-29,House,Water Purifier ,500,Cash
+421,2019-04-29,Gifts,Tip for Water Purifier Installation ,20,Cash
+422,2019-05-01,School,School items ,16.5,Credit  card
+423,2019-05-02,Food,Grocery lulu ,350.6,Credit  card
+424,2019-05-02,Eating out,KFC ,42,Credit  card
+425,2019-05-03,To 'Chitti Jamshad',Chitti,500,Cash
+426,2019-05-10,Eating out,BBQ Kottaram,28,Cash
+427,2019-05-10,Charity,Charity AMJ,20,Cash
+428,2019-05-10,Food,101.35+23 Grocery Grand ,124.35,Credit  card
+429,2019-05-10,Clothes,Dress Lulu ,328.25,Credit  card
+430,2019-05-10,Food,Grocery lulu ,11,Credit  card
+431,2019-05-10,To 'Chitti Ashraf',May,1000,Cash
+432,2019-05-11,Entertainment,Amir Cup ticket 7 nos,140,Credit  card
+433,2019-05-11,Charity,Charity  Donation(c\o Afsalkka),200,Cash
+434,2019-05-13,Eating out,Ifthar Ezma,89,Cash
+435,2019-05-13,Clothes,Dress Max,129,Credit  card
+436,2019-05-15,Eating out,Food al wakra ,20,Cash
+437,2019-05-15,Eating out,Porratta Baithal meshawi,5,Cash
+438,2019-05-15,Health,Medicine Hamad,7,Cash
+439,2019-05-16,Eating out,Biriyani Baithal meshawi ,12,Cash
+440,2019-05-16,Eating out,Wheet dosa and chicken,14,Cash
+441,2019-05-17,Health,Sidra discharge 2 days,217.84,Credit  card
+442,2019-05-17,Clothes,Cloths Max,123,Credit  card
+443,2019-05-17,To 'Cash',500 riyal ,10000,Sakeer
+444,2019-05-18,Charity,CHARITY Azhar mama,100,Cash
+445,2019-05-18,Entertainment,Metro tickets,10,Cash
+446,2019-05-18,Other,To sakeer ,20,Cash
+447,2019-05-18,Food,Grocery ,8,Cash
+448,2019-05-18,Mobile,Ooreedoo Recharge ,10,Credit  card
+449,2019-05-18,Food,Grocery Ansar Galary,154.9,Credit  card
+450,2019-05-19,Clothes,Clothes Ansar galary(Shabana),225,Credit  card
+451,2019-05-20,Mobile,App Renewal ,15,Credit  card
+452,2019-05-22,Health,Catheter Sidra(120 Nos),120,Credit  card
+453,2019-05-24,Food,Grocery lulu ,400,Credit  card
+454,2019-05-27,To 'Cash',,2500,Bank Account
+455,2019-05-27,To 'Chitti Nazir',May,2000,Cash
+456,2019-05-27,To 'Borrowed',Nazi0,1000,Cash
+457,2019-05-27,Food,Grocery Ezdan,7,Cash
+458,2019-05-27,Health,Sidra Ultra Sound and Nuclear medicine ,150,Credit  card
+459,2019-05-28,To 'Borrowed',Rinu15,1500,Bank Account
+460,2019-05-29,Food,Grocery Ezdan Milk,4,Cash
+461,2019-05-30,Communications,Ooreedoo Bill,300,Credit  card
+462,2019-05-30,To 'Credit  card',Credit card Payment ,2000,Bank Account
+463,2019-05-31,House,Water Purifier 2nd Installment ,400,Cash
+464,2019-05-31,Food,Grocery lulu ,139.4,Credit  card
+465,2019-05-31,To 'Cash',Cash withdrawal,500,Bank Account
+466,2019-06-02,To 'Chitti Ashraf',,1000,Borrowed
+467,2019-06-02,Charity,Fither zakat ,60,Cash
+468,2019-06-02,Clothes,Dress Grand ,169,Credit  card
+469,2019-06-02,House,Gift and clothes ,37.5,Credit  card
+470,2019-06-03,Clothes,Dress Grand ,56.5,Credit  card
+471,2019-06-03,Food,Grocery Grand ,174.7,Credit  card
+472,2019-06-04,Entertainment,Metro tickets ,20,Credit  card
+473,2019-06-04,Entertainment,Metro tickets ,8,Cash
+474,2019-06-05,Entertainment,Dukhan Trip,539.55,Credit  card
+475,2019-06-06,To 'Chitti Jamshad',,500,Cash
+476,2019-06-08,Clothes,Clothes Ansar galary,66.25,Credit  card
+477,2019-06-08,Food,Grocery Safari ,187.25,Credit  card
+478,2019-06-09,Eating out,Food court Safari ,22,Cash
+479,2019-06-09,Health,Medicine Safari,11,Cash
+480,2019-06-12,To 'Chitti Nazir',June Payment ,2000,Borrowed
+481,2019-06-12,Mobile,Memory card Lulu Bin Omran,89,Credit  card
+482,2019-06-13,Eating out,KFC ,46,Credit  card
+483,2019-06-14,Food,Grocery lulu (504.80-125),380,Credit  card
+484,2019-06-14,Other,Mubarakka Purchase(Returned by Cash),125,Credit  card
+485,2019-06-15,School,Madrasa Fee,150,Cash
+486,2019-06-15,Food,Gas Cylinder ,20,Cash
+487,2019-06-15,Eating out,Juice and Snacks,8.5,Cash
+488,2019-06-20,Eating out,Food MRA(with surfaraz),40,Credit  card
+489,2019-06-20,Eating out,Food Biathal meshaf,28,Cash
+490,2019-06-20,House,Table Purchase Afsalkka,125,Cash
+491,2019-06-21,House,Trolly Bag (299 with 50 Voucher),249,Credit  card
+492,2019-06-21,Gifts,Purchase Home town lulu,138,Credit  card
+493,2019-06-21,Food,Grocery lulu ,353.6,Credit  card
+494,2019-06-27,To 'Credit  card',,3576,Bank Account
+495,2019-06-27,Eating out,Star Burger Brost,30,Cash
+496,2019-06-28,House,Household and Toys ansar galary ,130,Credit  card
+497,2019-06-28,Food,Grocery Ansar Galary,150,Credit  card
+498,2019-06-28,Gifts,Purchase Home town Ansar galary ,434,Credit  card
+499,2019-06-29,House,Other and Correction ,112,Cash
+500,2019-06-30,House,Water Purifier 3rd Installment(Final),400,Cash
+501,2019-06-30,To 'Cash',Cash withdrawal,1100,Bank Account
+502,2019-07-01,Communications,Ooreedoo Bill,600,Credit  card
+503,2019-07-03,Eating out,Tea and Snacks,13,Cash
+504,2019-07-04,Eating out,Food Biathal meshaf,29,Cash
+505,2019-07-04,Gifts,Purchase Home town Grand,70,Credit  card
+506,2019-07-04,Food,Grocery Grand ,86.4,Credit  card
+507,2019-07-04,Car,Petrol ,20,Cash
+508,2019-07-05,Clothes,Abdu and diya Clothes ,100,Credit  card
+509,2019-07-05,Gifts,Purchase Home town Safari ,230,Credit  card
+510,2019-07-05,To 'Cash',Cash withdrawal,1000,Bank Account
+511,2019-07-05,To 'Chitti Ashraf',July ,1000,Cash
+512,2019-07-06,House,Fancy items Shabana Safari ,10,Cash
+513,2019-07-06,Eating out,BBQ Shawarma king,19,Cash
+514,2019-07-06,Clothes,Cloths lulu ,22,Credit  card
+515,2019-07-06,Food,Grocery lulu ,70,Credit  card
+516,2019-07-06,Gifts,Purchase Home town lulu,257.6,Credit  card
+517,2019-07-07,Other,Hair cut ,30,Cash
+518,2019-07-07,Clothes,Cloths Safari Mall,80,Cash
+519,2019-07-07,Health,Medicine Sidra,47.21,Credit  card
+520,2019-07-07,Gifts,Purchase Home town Safari ,101,Credit  card
+521,2019-07-08,Car,Car Repairs,300,Cash
+522,2019-07-10,To 'NRI Account',,2688,Chitti Jamshad
+523,2019-07-10,To 'Chitti Nazir',July Payment ,2000,Bank Account
+524,2019-07-10,To 'Borrowed',Return to Nazir,1000,Bank Account
+525,2019-07-11,Eating out,Snacks from Grand ,23.75,Credit  card
+526,2019-07-24,To 'Credit  card',Credit card Payment ,3102.44,Bank Account
+527,2019-08-04,To 'NRI Account',Chitti Payment ,1812,Chitti Jamshad
+528,2019-08-04,To 'NRI Account',,15580,Jamshad
+529,2019-08-15,Eating out,Lunch Coimbatore ,75.1,Credit  card
+530,2019-08-18,Transport,Taxi Fare From Airport ,60,Cash
+531,2019-08-18,House,Kindle Purchase ,422.11,Credit  card
+532,2019-08-18,Food,Grocery Grand ,156.15,Credit  card
+533,2019-08-19,Mobile,Mobile recharge ,10,Credit  card
+534,2019-08-19,Food,Grocery Lulu,160.35,Credit  card
+535,2019-08-19,To 'Borrowed',Jamshad Borrowed ,400,Credit  card
+536,2019-08-19,To 'Borrowed',Jamshad Borrowed ,1600,Bank Account
+537,2019-08-19,To 'NRI Account',,15000,Bank Account
+538,2019-08-20,House,Electrical Tools ,11,Cash
+539,2019-08-21,House,Cleaning Nal kumar,100,Cash
+540,2019-08-22,Eating out,KFC ,54,Credit  card
+541,2019-08-22,Food,Grocery Grand ,60.05,Credit  card
+542,2019-08-22,To 'Borrowed',Jamshad Borrowed ,1000,Credit  card
+543,2019-08-22,Eating out,Food Biathal meshaf,6,Cash
+544,2019-08-23,To 'Chitti Nazir',August Payment ,2000,Bank Account
+545,2019-08-24,Food,Fish from market,41,Cash
+546,2019-08-24,To 'Borrowed',Jameer Borrowed (Fish),26,Cash
+547,2019-08-26,House,QID Replacement,200,Credit  card
+548,2019-08-28,Car,Petrol Waqood,20,Credit  card
+549,2019-08-29,Eating out,BBQ Shawarma king,39,Cash
+550,2019-08-29,Food,Grocery Grand ,54.65,Credit  card
+551,2019-08-30,Food,Grocery Grand ,58.75,Credit  card
+552,2019-08-30,Food,Grocery Lulu ,231.1,Credit  card
+553,2019-08-30,House,Household ,25,Credit  card
+554,2019-08-30,Health,Pharmacy Lulu ,16,Credit  card
+555,2019-08-30,To 'Cash',Rinu Return ,500,Borrowed
+556,2019-08-31,Food,Fish from market(Jameer),26,Borrowed
+557,2019-08-31,Communications,Ooredoo Bill,600,Credit  card
+558,2019-09-02,To 'Borrowed India',To Yahiya ,149000,NRI Account
+559,2019-09-02,To 'Credit  card',Credit card Payment ,2598.76,Bank Account
+560,2019-09-04,Work,$13 Udemy Course ,48.4,Credit  card
+561,2019-09-05,Eating out,Food Biathal meshawi,30,Cash
+562,2019-09-06,Food,Grocery Grand ,38.35,Credit  card
+563,2019-09-06,Food,Grocery lulu ,208,Credit  card
+564,2019-09-07,School,School Fees +Transport ,3600,Credit  card
+565,2019-09-08,Eating out,Food Biathal meshaf,11,Cash
+566,2019-09-08,To 'Cash',Cash withdrawal,2000,Bank Account
+567,2019-09-08,To 'Chitti Nazir',September Payment ,2000,Cash
+568,2019-09-09,Work,Hard disk 195 and Caddy 40,235,Cash
+569,2019-09-10,Health,Sidra Pharmacy ,50.37,Credit  card
+570,2019-09-10,Health,Sidra Store,10,Credit  card
+571,2019-09-10,Eating out,Food MRA,28,Credit  card
+572,2019-09-10,Food,Grocery Safari,34.9,Credit  card
+573,2019-09-10,To 'Credit  card',Credit card Payment ,800,Bank Account
+574,2019-09-10,Health,Sidra Consultation Fee,30,Credit  card
+575,2019-09-12,Food,Grocery Grand ,130.5,Credit  card
+576,2019-09-13,Eating out,Tea and Snacks,6,Cash
+577,2019-09-13,House,Kanmashi,3,Cash
+578,2019-09-13,Car,Car Wash ,15,Cash
+579,2019-09-13,Food,Grocery Indian ,105.25,Credit  card
+580,2019-09-15,To 'Chitti Ashraf',August and September Payment ,2000,Cash
+581,2019-09-15,To 'Cash',Chitti Withdraw ,12000,Chitti Ashraf
+582,2019-09-18,Eating out,Sadhya Mannai ,125,Cash
+583,2019-09-19,School,Book ,21,Cash
+584,2019-09-19,Food,Grocery Grand ,171.45,Credit  card
+585,2019-09-21,School,Madrasa Fee September ,150,Cash
+586,2019-09-21,Eating out,Food Biathal meshawi,6,Cash
+587,2019-09-21,Food,Grocery Ansar Galary,95.34,Credit  card
+588,2019-09-24,To 'Borrowed',Return to Jojo,100,Cash
+589,2019-09-25,School,Exam Writing pads ,10,Credit  card
+590,2019-09-25,Mobile,Car Mobile Holder ,19,Credit  card
+591,2019-09-25,Food,Grocery Grand ,22.25,Credit  card
+592,2019-09-27,Food,Grocery Lulu,266.4,Credit  card
+593,2019-09-27,Health,Tape Pharmacy ,8,Credit  card
+594,2019-09-27,To 'Credit  card',Credit card Payment ,4694.89,Bank Account
+595,2019-09-28,Health,Hospital Consultation Fee Aliviya,40,Credit  card
+596,2019-09-28,Health,Medicine Aliviya,45.25,Credit  card
+597,2019-09-30,To 'NRI Account',,9985,Cash
+598,2019-09-30,Bills,Transfer Charge ,15,Cash
+599,2019-09-30,To 'Borrowed India',To Peppi ,65000,NRI Account
+600,2019-10-01,House,Garden items ,90,Credit  card
+601,2019-10-01,Gifts,Gold Purchase Akshaya for thasna,543,Bank Account
+602,2019-10-01,Eating out,KFC ,42,Credit  card
+603,2019-10-03,Eating out,Porratta Baithal meshawi,10,Cash
+604,2019-10-03,Food,Grocery Grand ,12,Credit  card
+605,2019-10-04,House,Chappal for Diya,15,Credit  card
+606,2019-10-04,Food,Grocery Grand ,81.15,Credit  card
+607,2019-10-05,Entertainment,Cycle Repair ,25,Cash
+608,2019-10-05,House,Hair cut ,35,Cash
+609,2019-10-07,Food,Grocery Grand ,28,Credit  card
+610,2019-10-07,To 'Borrowed India',Shabna's Vappa,125000,NRI Account
+611,2019-10-09,House,Home appliances and bed sheet,264.5,Credit  card
+612,2019-10-09,To 'Chitti Ashraf',October Payment ,1000,Bank Account
+613,2019-10-10,Eating out,BBQ Baithal meshawi ,15,Cash
+614,2019-10-10,Food,Grocery Grand ,81.4,Credit  card
+615,2019-10-12,Car,Car cleaner and Jumber,43,Credit  card
+616,2019-10-12,House,Battery ,27,Credit  card
+617,2019-10-12,Food,Grocery Lulu,298.85,Credit  card
+618,2019-10-12,To 'Chitti Nazir',October Payment ,2000,Bank Account
+619,2019-10-17,Eating out,Food Biathal meshaf,50,Cash
+620,2019-10-19,Food,Grocery Lulu ,257.15,Credit  card
+621,2019-10-21,Food,Gas Cylinder ,20,Cash
+622,2019-10-21,Mobile,Mobile recharge ,10,Credit  card
+623,2019-10-23,House,Filter(Cartridge change and shower filter),340,Bank Account
+624,2019-10-24,Food,Grocery Carrefour ,48.25,Credit  card
+625,2019-10-24,Eating out,McDonald's Chicken ,59,Credit  card
+626,2019-10-26,Other,Battery and Sunglass,12,Credit  card
+627,2019-10-26,Food,Grocery Grand ,157.95,Credit  card
+628,2019-10-28,Communications,Ooreedoo Bill,600,Credit  card
+629,2019-10-28,To 'Bank Account',Jamshad Return,3000,Borrowed
+630,2019-10-31,Eating out,Food Rotana,65,Credit  card
+631,2019-10-31,Food,Grocery Grand ,74.85,Credit  card
+632,2019-10-31,To 'Credit  card',Credit card Payment ,2538.15,Bank Account
+633,2019-10-31,To 'Borrowed India',Riyas,20000,NRI Account
+634,2019-11-02,To 'Chitti Nazir',November Payment ,2000,Bank Account
+635,2019-11-03,Food,Grocery Grand ,195.4,Credit  card
+636,2019-11-05,To 'Borrowed',To Rinu(Given),2000,Bank Account
+637,2019-11-07,Eating out,Food Biathal meshawi,29,Cash
+638,2019-11-07,Eating out,Snacks Noble school ,14,Cash
+639,2019-11-07,Food,Grocery Grand ,96.45,Credit  card
+640,2019-11-07,To 'Cash',Cash withdrawal,200,Bank Account
+641,2019-11-09,Eating out,Snacks at Safari ,34,Cash
+642,2019-11-09,Food,Grocery Safari ,75.35,Credit  card
+643,2019-11-09,Health,Tape Pharmacy ,8,Credit  card
+644,2019-11-09,To 'Chitti Ashraf',November and December Payment ,2000,Bank Account
+645,2019-11-10,Food,Grocery Lulu,226.6,Credit  card
+646,2019-11-10,Sports,Bicycle ,199,Credit  card
+647,2019-11-11,Mobile,True Caller Renewal ,25,Credit  card
+648,2019-11-12,House,Desktop computers Purchase ,1350,Cash
+649,2019-11-12,To 'Cash',Withdrawal ,1300,Bank Account
+650,2019-11-15,Food,Grocery Grand ,155.4,Credit  card
+651,2019-11-15,House,Grand others,7,Credit  card
+652,2019-11-15,Health,Hospital Consultation Fee Aliviya,40,Credit  card
+653,2019-11-15,Health,Hospital teeth removal Fee Aliviya,240,Credit  card
+654,2019-11-15,Health,Medicine Aliviya,43.63,Credit  card
+655,2019-11-16,School,Madrasa Fee October ,150,Cash
+656,2019-11-18,Health,Sidra Consultation Fee,30,Credit  card
+657,2019-11-18,Health,Sidra Pharmacy ,11.16,Credit  card
+658,2019-11-18,Health,Catheter Sidra(50 Nos),50,Credit  card
+659,2019-11-18,Eating out,MRA restaurant ,71,Credit  card
+660,2019-11-21,Eating out,Food Biathal meshaf,20,Cash
+661,2019-11-21,Food,Grocery Grand ,55.75,Credit  card
+662,2019-11-22,Eating out,Fish grill,42.5,Cash
+663,2019-11-23,Mobile,Filmora Screen capture Purchase ,120,Credit  card
+664,2019-11-23,To 'Cash',Cash withdrawal,100,Bank Account
+665,2019-11-23,House,Hair cut ,35,Cash
+666,2019-11-23,School,Madrasa Fee November ,150,Cash
+667,2019-11-24,Food,Grocery Grand ,232.05,Credit  card
+668,2019-11-25,Mobile,Memory card Ali Express 256Gb,150,Credit  card
+669,2019-11-26,Transport,Petrol ,20,Cash
+670,2019-11-27,To 'Credit  card',Credit card Payment ,2018.84,Bank Account
+671,2019-11-28,Health,Medicine PHCC,30,Credit  card
+672,2019-11-28,Food,Grocery Lulu,211.95,Credit  card
+673,2019-11-28,Eating out,Food Biathal meshawi,32,Cash
+674,2019-12-01,Transport,Petrol ,20,Cash
+675,2019-12-02,Food,Grocery Lulu,102.32,Credit  card
+676,2019-12-02,Sports,Lock cycle ,12,Credit  card
+677,2019-12-02,To 'Borrowed',Sharfaraz Borrowed ,500,Bank Account
+678,2019-12-03,Transport,Qatar rail Card recharge ,10,Credit  card
+679,2019-12-03,Transport,Petrol ,20,Cash
+680,2019-12-05,To 'Cash',Rinu Return ,2000,Borrowed
+681,2019-12-05,Health,Sidra Pharmacy ,37.93,Credit  card
+682,2019-12-05,Eating out,McDonald's Chicken ,59,Credit  card
+683,2019-12-05,Food,Grocery Lulu,24.5,Credit  card
+684,2019-12-06,Eating out,Snacks ,13,Cash
+685,2019-12-09,Food,Grocery Grand ,176.3,Credit  card
+686,2019-12-09,To 'Cash',Cash withdrawal,1500,Bank Account
+687,2019-12-09,To 'Chitti Nazir',December Payment ,2000,Cash
+688,2019-12-09,To 'Borrowed',To Nazi,1000,Cash
+689,2019-12-10,To 'Cash',Shaik Mansoor (Microsoft exam33),32000,NRI Account
+690,2019-12-12,Eating out,Baithal meshawi parcel,35,Cash
+691,2019-12-12,To 'BBQ',,15,Cash
+692,2019-12-13,Car,Petrol Waqood,20,Cash
+693,2019-12-15,Food,Grocery lulu ,109.05,Credit  card
+694,2019-12-15,To 'Cash',Cash withdrawal,1500,Bank Account
+695,2019-12-15,To 'NRI Account',Sent Money to India,1957.51,Cash
+696,2019-12-16,Car,Petrol waqood ,20,Cash
+697,2019-12-16,Food,Lulu Purchase ,4.5,Credit  card
+698,2019-12-16,To 'Cash',Sharfaraz Returns ,500,Borrowed
+699,2019-12-18,Food,Grocery lulu ,186.22,Credit  card
+700,2019-12-19,Entertainment,Porratta Baithal meshawi,15,BBQ
+701,2019-12-19,Entertainment,BBQ Wakra beach ,42,BBQ
+702,2019-12-19,To 'BBQ',Common Purchase ,221.7,Credit  card
+703,2019-12-20,Entertainment,Metro tickets ,8,Cash
+704,2019-12-21,Food,Gas Cylinder ,20,Cash
+705,2019-12-21,Mobile,Mobile recharge ,10,Credit  card
+706,2019-12-22,Food,Grocery Grand ,64.75,Credit  card
+707,2019-12-23,To 'Cash',Mansoor,42,BBQ
+708,2019-12-26,Food,Grocery Grand ,145.95,Credit  card
+709,2019-12-26,Eating out,Food Talabat,39,Credit  card
+710,2019-12-27,Clothes,Cloths Safari,190,Credit  card
+711,2019-12-27,House,Pampers ,27,Credit  card
+712,2019-12-27,Clothes,Maftha Safari Mall,18,Cash
+713,2019-12-27,Eating out,Vada ,3,Cash
+714,2019-12-27,Clothes,Watch repair,5,Cash
+715,2019-12-28,Clothes,Cloths Max,30,Credit  card
+716,2019-12-28,Mobile,Earbuds Mi ,125,Cash
+717,2019-12-29,Transport,Tickets to India ,2991,Credit  card
+718,2019-12-30,Food,Grocery Lulu,170.53,Credit  card
+719,2019-12-30,To 'Credit  card',Credit card Payment ,3500,Bank Account
+720,2020-01-01,Communications,Ooreedoo Bill,600,Credit  card
+721,2020-01-02,Eating out,Food Biathal meshawi,32,Cash
+722,2020-01-04,Work,Az 500 course Purchase ,40,Credit  card
+723,2020-01-04,School,School Fees +Transport ,2700,Cash
+724,2020-01-04,Gold Purchase,Gold Purchase Akshaya 8.21gm,1532,Cash
+725,2020-01-04,Mobile,Mobile Purchase for shabana ,599,Credit  card
+726,2020-01-04,To 'Credit  card',Credit card Payment ,1500,Bank Account
+727,2020-01-04,To 'Cash',Cash withdrawal,3700,Bank Account
+728,2020-01-04,To 'Borrowed',Borrowed to Jamshad,3000,Cash
+729,2020-01-04,To 'Cash',Cash withdrawal,2000,Bank Account
+730,2020-01-05,Food,Grocery lulu ,264.9,Credit  card
+731,2020-01-05,To 'Chitti Nazir',January Payment ,2000,Bank Account
+732,2020-01-09,Eating out,Baithal meshawi parcel,10,Cash
+733,2020-01-11,School,Madrasa Fee December and January ,300,Cash
+734,2020-01-11,Food,Milk Grand,20.5,Credit  card
+735,2020-01-11,Food,Grocery  Lulu ,226.09,Credit  card
+736,2020-01-11,Food,Pampers ,17.5,Credit  card
+737,2020-01-13,Health,Sidra Catheter ,50,Credit  card
+738,2020-01-13,To 'Borrowed',To Rinu(Given),1000,Bank Account
+739,2020-01-16,Eating out,Food Biathal meshawi,30,Cash
+740,2020-01-16,Transport,Qatar rail Card recharge ,10,Credit  card
+741,2020-01-16,Food,Grocery Grand ,91.85,Credit  card
+742,2020-01-20,Food,Grocery Grand ,218.3,Credit  card
+743,2020-01-20,Food,Grocery Grand ,11.1,Credit  card
+744,2020-01-21,Transport,Metro tickets,4,Cash
+745,2020-01-23,Eating out,Food Biathal meshawi,38,Cash
+746,2020-01-25,Clothes,Dress Lulu ,131.85,Credit  card
+747,2020-01-25,Food,Grocery Lulu,100.75,Credit  card
+748,2020-01-25,Gifts,Mic and Speakers,199,Credit  card
+749,2020-01-25,House,Hair cut ,15,Cash
+750,2020-01-28,To 'Cash',Cash withdrawal,2700,Bank Account
+751,2020-01-28,To 'Borrowed',Given to Jans ,3000,Cash
+752,2020-01-30,Food,Grocery Grand ,131,Credit  card
+753,2020-01-31,To 'Credit  card',Credit card Payment 26,2603.1,Bank Account
+754,2020-02-01,Food,Grocery  Lulu ,231.5,Credit  card
+755,2020-02-04,To 'Borrowed India',Binu,20000,NRI Account
+756,2020-02-06,Eating out,KFC ,47,Credit  card
+757,2020-02-08,Food,Grocery Grand ,15.75,Credit  card
+758,2020-02-09,Food,Grocery Grand ,27.65,Credit  card
+759,2020-02-09,Car,Petrol,20,Cash
+760,2020-02-10,Food,Grocery Grand ,49,Credit  card
+761,2020-02-11,Other,Credit Yearly Charges ,200,Credit  card
+762,2020-02-13,Gifts,Purchase Home town Ansar galary ,375.25,Credit  card
+763,2020-02-13,Eating out,MRA restaurant ,37.5,Credit  card
+764,2020-02-14,Clothes,Dress Safari ,112,Credit  card
+765,2020-02-14,House,Toy car,30,Credit  card
+766,2020-02-14,Communications,Ooreedoo Bill,300,Credit  card
+767,2020-02-14,Communications,Ooreedoo Recharge ,10,Credit  card
+768,2020-02-14,Food,Grocery Grand ,135.9,Credit  card
+769,2020-02-14,Clothes,Dress and Shoes 409+9,418,Credit  card
+770,2020-02-14,Food,Grocery lulu ,49.1,Credit  card
+771,2020-02-15,Other,Bank Charges ,50,Credit  card
+772,2020-02-17,Gifts,Gold Purchase ,2812,Cash
+773,2020-02-17,To 'Cash',Cash withdrawal,3500,Bank Account
+774,2020-02-17,Food,Grocery  Lulu ,12,Credit  card
+775,2020-02-18,Eating out,BBQ Shawarma king,25,Cash
+776,2020-02-19,To 'Chitti Nazir',February Payment,2000,Cash
+777,2020-02-19,To 'Cash',Nazi Return ,500,Borrowed
+778,2020-02-19,Other,Commission Money Exchange ,15,Bank Account
+779,2020-02-19,House,Packing Buble wrapper,20,Credit  card
+780,2020-02-19,To 'NRI Account',Sent Money to India,19985,Bank Account
+781,2020-02-20,Eating out,Food Biathal meshawi,14,Cash
+782,2020-02-20,Food,Grocery Grand ,29.5,Credit  card
+783,2020-02-20,House,Packing Buble wrapper,15,Credit  card
+784,2020-02-27,To 'Credit  card',Credit card Payment ,2296.12,Bank Account
+785,2020-03-07,Taxi,Taxi Fare From Airport ,40,Cash
+786,2020-03-08,To 'Cash',Jans Returned ,3000,Borrowed
+787,2020-03-08,Food,Grocery Grand ,145.66,Credit  card
+788,2020-03-12,Eating out,Food Biathal meshawi,25,Cash
+789,2020-03-13,To 'Chitti Nazir',March Payment,2000,Bank Account
+790,2020-03-13,Food,Grocery Grand ,206.59,Credit  card
+791,2020-03-15,Health,Sidra Ultra Sound ,50,Credit  card
+792,2020-03-15,Health,Sidra Catheter ,110,Credit  card
+793,2020-03-15,Health,Sidra Pharmacy ,7.41,Credit  card
+794,2020-03-17,Food,Grocery  Lulu ,555.34,Credit  card
+795,2020-03-18,Communications,Ooreedoo Bill,600,Credit  card
+796,2020-03-18,To 'Bank Account',Chitti Withdraw ,20000,Chitti Nazir
+797,2020-03-18,To 'Borrowed',Purchased by Jamshad,2100,Credit  card
+798,2020-03-19,To 'Borrowed',Purchased by Jamshad,75.74,Credit  card
+799,2020-03-19,To 'Borrowed',Purchased by Jamshad,89.6,Credit  card
+800,2020-03-20,To 'Cash',Rinu Return ,1000,Borrowed
+801,2020-03-22,Food,Grocery Grand ,122.75,Bank Account
+802,2020-03-22,To 'Borrowed',To Jamshad,3000,Cash
+803,2020-03-24,House,Commission Money Exchange ,15,Bank Account
+804,2020-03-24,To 'NRI Account',Transfer to NRI ,29985,Bank Account
+805,2020-03-26,To 'Bank Account',Jamshad Return,3000,Borrowed
+806,2020-03-26,To 'NRI Account',Jamshad Return,3500,Borrowed
+807,2020-03-27,Eating out,Food Biathal meshawi,25,Cash
+808,2020-03-31,To 'Credit  card',Credit card Payment ,3939.34,Bank Account
+809,2020-04-01,Food,Grocery  Lulu ,193.38,Credit  card
+810,2020-04-02,Eating out,KFC ,54,Cash
+811,2020-04-03,School,School Fees + Books ,2550,Bank Account
+812,2020-04-09,Eating out,Food Biathal meshawi,30,Cash
+813,2020-04-09,To 'Chitti Nazir',April Payment ,1500,Bank Account
+814,2020-04-09,To 'Chitti Nazir',Return Nazir ,500,Borrowed
+815,2020-04-11,Food,Grocery Grand ,198.6,Credit  card
+816,2020-04-14,To 'Borrowed',To Jamshad,500,Bank Account
+817,2020-04-15,Health,Sidra Pharmacy ,34.2,Bank Account
+818,2020-04-16,Eating out,Food Talabat,50,Credit  card
+819,2020-04-18,Food,Beef Market ,66,Cash
+820,2020-04-18,Food,Grocery Grand ,40,Credit  card
+821,2020-04-19,Mobile,Ooreedoo Recharge ,30,Credit  card
+822,2020-04-19,School,Physics vala Donation ,15,Credit  card
+823,2020-04-20,Communications,Ooreedoo Bill,300,Credit  card
+824,2020-04-20,School,Grand others,22,Credit  card
+825,2020-04-20,Food,Grocery Grand ,380,Credit  card
+826,2020-04-29,Food,Grocery Ezdan 3,40,Cash
+827,2020-04-30,To 'Credit  card',Credit card Payment ,1229,Bank Account
+828,2020-04-30,Charity,Donation ,94,Credit  card
+829,2020-05-01,Food,Grocery Ezdan 3,61,Cash
+830,2020-05-05,Food,Chicken Fresh ,20,Cash
+831,2020-05-06,Food,Grocery Getit,218.13,Credit  card
+832,2020-05-07,Food,Beef Market ,77,Cash
+833,2020-05-07,Eating out,KFC ,45,Cash
+834,2020-05-08,Health,Medicine Sidra,18.51,Bank Account
+835,2020-05-17,House,Grand others,85,Cash

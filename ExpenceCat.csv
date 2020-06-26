@@ -1,0 +1,33 @@
+ID ,CatogaryName,Type
+1,Initial balance Credit  card,
+2,To 'Credit  card',Transfer
+3,Food,
+4,To 'Chitti Nazir',Transfer
+5,House,
+6,Eating out,
+7,Toiletry,Transfer
+8,School,
+9,Transport,
+10,Work,
+11,Car,
+12,Mobile,
+13,Charity,
+14,Communications,
+15,Gifts,
+16,To 'Borrowed',Transfer
+17,Health,
+18,Clothes,
+19,Other,
+20,To 'Chitti Jamshad',Transfer
+21,To 'Cash',Transfer
+22,Entertainment,
+23,To 'Bank Account',Transfer
+24,To 'NRI Account',Transfer
+25,Bills,
+26,To 'Jamshad',Transfer
+27,To 'Chitti Ashraf',Transfer
+28,Gold Purchase,
+29,To 'Borrowed India',Transfer
+30,Sports,
+31,To 'BBQ',Transfer
+32,Taxi,
